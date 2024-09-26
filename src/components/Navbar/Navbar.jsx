@@ -19,7 +19,7 @@ const Navbar = () => {
         </Link>
         <ul className="navbar-menu">
           <Link
-            to="/"
+            to="#home"
             onClick={() => {
               setMenu("Home");
             }}
