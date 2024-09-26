@@ -14,12 +14,12 @@ const Navbar = () => {
   return (
     <>
       <div className="navbar">
-        <Link to="/ipoint">
+        <Link to="/iplace">
           <img src={assets.logo} alt="logo" className="logo" />
         </Link>
         <ul className="navbar-menu">
           <Link
-            to="/ipoint"
+            to="/iplace"
             onClick={() => {
               setMenu("Home");
             }}
