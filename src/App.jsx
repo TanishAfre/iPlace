@@ -25,7 +25,7 @@ function App() {
       <Route path='cart' element={<Cart/>}/>
       <Route path='order' element={<PlaceOrder/>}/>
       <Route path='/payment' element={<Payment/>}/>
-      <Route path="/privacy-policy" element={<PrivacyPolicy />} /> 
+      <Route path="privacy-policy" element={<PrivacyPolicy />} /> 
     </Routes>
     </div>
     <Footer/>
