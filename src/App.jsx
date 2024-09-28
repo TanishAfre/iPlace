@@ -8,6 +8,7 @@ import Footer from './components/Footer/Footer'
 import Login from './components/Login/Login'
 import Payment from './components/Payment/Payment'
 import { StoreContext } from './context/StoreContext'
+import PrivacyPolicy from './pages/PrivacyPolicy/PrivacyPolicy';
 
 function App() {
   // const [showLogin , setShowLogin] = useState();
@@ -24,6 +25,7 @@ function App() {
       <Route path='cart' element={<Cart/>}/>
       <Route path='order' element={<PlaceOrder/>}/>
       <Route path='/payment' element={<Payment/>}/>
+      <Route path="/privacy-policy" element={<PrivacyPolicy />} /> 
     </Routes>
     </div>
     <Footer/>

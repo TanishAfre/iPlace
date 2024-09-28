@@ -6,7 +6,7 @@ const ExploreMenu = ({category , setCategory}) => {
     <>
       <div className="explore-menu" id="explore-menu">
         <h1>Explore our options</h1>
-        <p className="explore-menu-text">Discover a world of mobile solutions with our comprehensive selection of products and services. From buying and selling phones to expert repairs, stylish accessories, and protective covers, we’ve got everything you need to stay connected. Plus, explore our exclusive range of vapes. Your mobile experience starts here!</p>
+        <p className="explore-menu-text">Visit our shop to discover a world of unique products crafted with care and passion. While we don't offer online sales, our website serves as a digital showcase of our diverse collection.</p>
         <div className="explore-menu-list">
           {menu_list.map((item , index)=>{
             return(

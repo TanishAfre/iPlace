@@ -137,7 +137,7 @@ export const food_list = [
         image: food_4,
         price1: 300,
         price2: 1000,
-        description: "Budget smart phones with best features available",
+        description: "Budget smart phones with best features available along with repair services",
         category: "Phones"
     }, {
         _id: "5",
@@ -145,7 +145,7 @@ export const food_list = [
         image: food_5,
         price1: 500,
         price2: 2000,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Amazing collection of Dell laptops available along with repair services",
         category: "Laptops Repair"
     }, {
         _id: "6",
@@ -153,7 +153,7 @@ export const food_list = [
         image: food_6,
         price1: 1200,
         price2: 3000,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Latest iMac with best features available along with repair services",
         category: "Laptops Repair"
     }, {
         _id: "7",
@@ -161,7 +161,7 @@ export const food_list = [
         image: food_7,
         price1: 500,
         price2: 1500,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Budget microsoft laptops with best features available along with repair services",
         category: "Laptops Repair"
     }, {
         _id: "8",
@@ -169,7 +169,7 @@ export const food_list = [
         image: food_8,
         price1: 300,
         price2: 1500,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Coolest collection of Lenovo laptops available along with repair services",
         category: "Laptops Repair"
     }, {
         _id: "9",
@@ -177,7 +177,7 @@ export const food_list = [
         image: food_9,
         price1: 449,
         price2: 1229,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Great condition iPads available along with repair services",
         category: "Tablets Repair"
     }, {
         _id: "10",
@@ -185,7 +185,7 @@ export const food_list = [
         image: food_10,
         price1: 200,
         price2: 600,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "budget samsung tablets available along with repair services",
         category: "Tablets Repair"
     }, {
         _id: "11",
@@ -193,7 +193,7 @@ export const food_list = [
         image: food_11,
         price1: 150,
         price2: 500,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Wide collection of Honor tabs available along with repair services",
         category: "Tablets Repair"
     }, {
         _id: "12",
@@ -201,7 +201,7 @@ export const food_list = [
         image: food_12,
         price1: 100,
         price2: 2000,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Contact store for more details",
         category: "Tablets Repair"
     },
     {
@@ -209,7 +209,7 @@ export const food_list = [
         name: "Screen Protectors",
         image: food_13,
         price1: 15,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Best screen protectors for all types of phones available",
         category: "Phone Accessaries"
     },
     {
@@ -218,7 +218,7 @@ export const food_list = [
         image: food_14,
         price1: 10,
         price2: 50,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Variety of phone covers available for your phones safety",
         category: "Phone Accessaries"
     }, {
         _id: "15",
@@ -226,7 +226,7 @@ export const food_list = [
         image: food_15,
         price1: 10,
         price2: 500,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Amazing sound quality headphones and earphones available",
         category: "Phone Accessaries"
     }, {
         _id: "16",
@@ -234,14 +234,14 @@ export const food_list = [
         image: food_16,
         price1: 15,
         price2: 50,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Power banks with best battery life available",
         category: "Phone Accessaries"
     }, {
         _id: "17",
         name: "Chargers and Cables",
         image: food_17,
         price1: 20,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Best quality chargers and cables available",
         category: "Phone Accessaries"
     }, {
         _id: "18",
@@ -249,7 +249,7 @@ export const food_list = [
         image: food_18,
         price1: 30,
         price2: 300,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Budget smart watches available",
         category: "Phone Accessaries"
     }, {
         _id: "19",

@@ -22,17 +22,17 @@ const Footer = () => {
           <div className="footer-content-center">
             <h2>COMPANY</h2>
             <ul>
-                <li>Home</li>
-                <li>About us</li>
-                <li>Delivery</li>
-                <li>Privacy policy</li>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#explore-menu">About us</a></li>
+                <li><a href="iplace/privacy-policy">Privacy policy</a></li>
             </ul>
           </div>
           <div className="footer-content-right">
             <h2>GET IN TOUCH</h2>
             <ul>
-                <li>085 192 5850</li>
-                <li>iPoint@gmail.com</li>
+                <li><a href="tel:+353851925850">085 192 5850</a></li>
+                <li><a href="mailto:dundalkipoint@gmail.com">dundalkipoint@gmail.com</a></li>
+                <li><a href="https://www.google.com/maps?q=54.003458, -6.400915" target="_blank" rel="noopener noreferrer">Location</a></li>
             </ul>
           </div>
         </div>
