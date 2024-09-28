@@ -22,8 +22,8 @@ const Footer = () => {
           <div className="footer-content-center">
             <h2>COMPANY</h2>
             <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#explore-menu">About us</a></li>
+                {/* <li><a href="/">Home</a></li>
+                <li><a href="#explore-menu">About us</a></li> */}
                 <li><a href="iplace/privacy-policy">Privacy policy</a></li>
             </ul>
           </div>
