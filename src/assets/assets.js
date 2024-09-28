@@ -257,42 +257,42 @@ export const food_list = [
         image: food_19,
         price1: 20,
         price2: 100,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Best quality speakers available",
         category: "Phone Accessaries"
     }, {
         _id: "20",
         name: "Car Adapter",
         image: food_20,
         price1: 20,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Charge your phone on the go with car adapter",
         category: "Phone Accessaries"
     }, {
         _id: "21",
         name: "Vape Pods ",
         image: food_21,
         price1: 30,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Vape pods with best flavors available",
         category: "Vapes"
     }, {
         _id: "22",
         name: "Vape Pens",
         image: food_22,
         price1: 30,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Vape pens with best flavors available",
         category: "Vapes"
     }, {
         _id: "23",
         name: "Disposable Vapes",
         image: food_23,
         price1: 7,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Disposable vape with best flavors available",
         category: "Vapes"
     }, {
         _id: "24",
         name: "Vape Box Mods",
         image: food_24,
         price1: 50,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "Vape box mods with best flavors available",
         category: "Vapes"
     }
 ]
