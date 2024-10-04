@@ -1,5 +1,6 @@
 import React from "react";
 import "./Footer.css";
+import { Link } from 'react-router-dom';
 import { assets } from "../../assets/assets";
 const Footer = () => {
   return (
@@ -24,7 +25,7 @@ const Footer = () => {
             <ul>
                 {/* <li><a href="/">Home</a></li>
                 <li><a href="#explore-menu">About us</a></li> */}
-                <li><a href="iplace/privacy-policy">Privacy policy</a></li>
+                <li><Link to="/privacy-policy">Privacy policy</Link></li>
             </ul>
           </div>
           <div className="footer-content-right">
